@@ -17,13 +17,13 @@
 
 마우스가 캐릭터 기준 오른쪽으로 가면 오른쪽, 왼쪽으로 가면 왼쪽을 바라본다 
 
-#### **4. 타일맵으로 맵 만들기**
+#### **3. 타일맵으로 맵 만들기**
    
   ![image](https://github.com/suhyunChun/Assignment_SpartaTown/assets/89771577/08683150-7dbe-4d48-81fe-6592d61a3677)
   
   콜라이더를 이용해서 맵 밖으로 빠져나가는 것을 방지. 
 
-#### **6. 캐릭터가 움직이는 것 따라서 카메라가 따라가기**
+#### **4. 캐릭터가 움직이는 것 따라서 카메라가 따라가기**
 
   ![제목 없는 동영상 - Clipchamp로 제작 (1)](https://github.com/suhyunChun/Assignment_SpartaTown/assets/89771577/d7d70d2d-fd9e-4f32-a87e-be581b9fce0c)
 
