@@ -28,3 +28,6 @@
   ![제목 없는 동영상 - Clipchamp로 제작 (1)](https://github.com/suhyunChun/Assignment_SpartaTown/assets/89771577/d7d70d2d-fd9e-4f32-a87e-be581b9fce0c)
 
    
+#### **5. 캐릭터 애니메이션**
+
+![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/suhyunChun/Assignment_SpartaTown/assets/89771577/fd22033f-9eb4-4c47-b299-68fa4e26561d)
